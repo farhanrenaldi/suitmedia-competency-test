@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Suitmedia Competency Test</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_check">Check</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="textbox_error">This field must be filled</string>
+    <string name="tv_username">${item.firstName} ${item.lastName}</string>
+</resources>
